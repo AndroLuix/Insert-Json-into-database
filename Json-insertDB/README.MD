@@ -1,4 +1,4 @@
-#Progetto di Identificazione e Visualizzazione degli Errori nei File JSON con PHP e MySQL
+# Progetto di Identificazione e Visualizzazione degli Errori nei File JSON con PHP e MySQL
 
 Questo progetto ti permette di identificare i file 
 JSON e visualizzarne gli errori di inserimento del database utilizzando codice PHP. 
